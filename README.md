@@ -2,7 +2,7 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Halil%20%C3%87ift%C3%A7i&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%26%20Full-Stack%20Engineer&descSize=20&descAlignY=62&descAlign=50)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Information+Systems+Engineering+%40+MSKU;Building+Production-Grade+AI+%26+Distributed+Systems;Full-Stack+Web+%7C+Next.js%2C+FastAPI%2C+PostgreSQL;Edge+Robotics+%26+Applied+Machine+Learning)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Information+Systems+Engineering+%40+MSKU;Building+Production-Grade+AI+%26+Distributed+Systems;Core+Focus+%7C+PyTorch%2C+FastAPI%2C+pgvector%2C+Docker;AI+Systems+Engineer+Roadmap+in+Motion)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://dersdevam.com.tr"><img src="https://img.shields.io/badge/Live_Project-DersDevam.com.tr-00d4ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Project"></a>
@@ -38,38 +38,22 @@ I enjoy engineering software that actually survives contact with real users. Rat
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🎯 Engineering Focus & AI Systems Stack
+
+My day-to-day work is strictly organized around the **AI Systems Engineering** lifecycle — moving from mathematical derivations from scratch to high-throughput, observable production deployments:
 
 <p align="left">
-  <b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-</p>
-
-<p align="left">
-  <b>AI, Data & Machine Learning:</b><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/RAG_Architecture-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-<p align="left">
-  <b>Web, Database & DevOps:</b><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/PostgreSQL_%2F_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL / pgvector" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+- **Core ML & Deep Learning:** Mathematical foundations from scratch (NumPy), Classical ML pipelines (Scikit-Learn, XGBoost, SHAP), PyTorch training loops & ONNX Runtime inference optimization.
+- **Production RAG & Information Retrieval:** Hybrid retrieval (Dense + BM25 / RRF), cross-encoder reranking (BGE), vector search (`pgvector`), automated evaluation suites (Ragas / DeepEval), and trace observability via Langfuse.
+- **Systems & Serving Backbone:** Async Python (`asyncio`), schema-driven APIs (`FastAPI` + `Pydantic v2`), containerized deployments (`Docker`), and CI/CD pipelines.
 
 ---
 
