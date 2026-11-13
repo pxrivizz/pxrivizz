@@ -38,21 +38,12 @@ I enjoy engineering software that actually survives contact with real users. Rat
 
 ---
 
-### 🎯 Engineering Focus & AI Systems Stack
+### 🎯 Engineering Focus
 
 My day-to-day work is strictly organized around the **AI Systems Engineering** lifecycle — moving from mathematical derivations from scratch to high-throughput, observable production deployments:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/PostgreSQL_%2F_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL / pgvector" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-- **Core ML & Deep Learning:** Mathematical foundations from scratch (NumPy), Classical ML pipelines (Scikit-Learn, XGBoost, SHAP), PyTorch training loops & ONNX Runtime inference optimization.
-- **Production RAG & Information Retrieval:** Hybrid retrieval (Dense + BM25 / RRF), cross-encoder reranking (BGE), vector search (`pgvector`), automated evaluation suites (Ragas / DeepEval), and trace observability via Langfuse.
+- **Core ML & Deep Learning:** Mathematical foundations from scratch (`NumPy`), Classical ML pipelines (`Scikit-Learn`, `XGBoost`, `SHAP`), and `PyTorch` training loops with `ONNX Runtime` inference optimization.
+- **Production RAG & Information Retrieval:** Hybrid retrieval (Dense + BM25 / RRF), cross-encoder reranking (`BGE`), vector search with `pgvector`, automated evaluation suites (`Ragas`, `DeepEval`), and trace observability via `Langfuse`.
 - **Systems & Serving Backbone:** Async Python (`asyncio`), schema-driven APIs (`FastAPI` + `Pydantic v2`), containerized deployments (`Docker`), and CI/CD pipelines.
 
 ---
