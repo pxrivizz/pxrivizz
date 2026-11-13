@@ -80,6 +80,8 @@ My technical routine is grounded in a rigorous, 66-week professional specializat
 ---
 
 <div align="center">
-  <p><i>"Talk is cheap. Show me the code and the production metrics."</i></p>
-  <sub>Muğla Sıtkı Koçman University • Information Systems Engineering</sub>
+  <p><i>"Hayatta en hakiki mürşit ilimdir, fendir."</i></p>
+  <sub><i>("The truest guide in life is science and knowledge.")</i></sub>
+  <br/>
+  <b>— Mustafa Kemal Atatürk</b>
 </div>
