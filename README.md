@@ -1,47 +1,47 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Halil%20%C3%87ift%C3%A7i&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=62&descAlign=50)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Halil%20%C3%87ift%C3%A7i&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%26%20Full-Stack%20Engineer&descSize=20&descAlignY=62&descAlign=50)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Bili%C5%9Fim+Sistemleri+M%C3%BChendisli%C4%9Fi+%7C+MSK%C3%9C;Production-Grade+AI+%26+Distributed+Systems;Full-Stack+Web+%7C+Next.js%2C+FastAPI%2C+PostgreSQL;Edge+Robotics+%26+Embedded+AI)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Information+Systems+Engineering+%40+MSKU;Building+Production-Grade+AI+%26+Distributed+Systems;Full-Stack+Web+%7C+Next.js%2C+FastAPI%2C+PostgreSQL;Edge+Robotics+%26+Applied+Machine+Learning)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://dersdevam.com.tr"><img src="https://img.shields.io/badge/Live_Project-DersDevam.com.tr-00d4ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a>
+  <a href="https://dersdevam.com.tr"><img src="https://img.shields.io/badge/Live_Project-DersDevam.com.tr-00d4ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Project"></a>
   <a href="https://github.com/pxrivizz"><img src="https://img.shields.io/badge/GitHub-pxrivizz-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:halilciftci39@gmail.com"><img src="https://img.shields.io/badge/Email-halilciftci39@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:halilciftci39@gmail.com"><img src="https://img.shields.io/badge/Email-halilciftci39%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 About Me
 
-Muğla Sıtkı Koçman Üniversitesi **Bilişim Sistemleri Mühendisliği** öğrencisiyim. 
+Hi, I'm Halil. I study **Information Systems Engineering** at Muğla Sıtkı Koçman University.
 
-Oyuncak demolar veya yapay egzersizler yerine **üretimde (production) kararlı çalışan**, yüksek güvenlikli ve ölçeklenebilir mühendislik sistemleri geliştirmeye odaklanıyorum. Çalışma alanlarım; **AI Systems Engineering**, **RAG & LLM Entegrasyonları**, **Modern Web & API Mimarileri** ve **Gömülü Yapay Zekâ / Robotik** ekseninde ilerliyor.
+I enjoy engineering software that actually survives contact with real users. Rather than padding my profile with disposable tutorials or toy apps, I spend my time building reliable, production-tested systems — ranging from secure university attendance platforms to applied AI pipelines and edge robotics.
 
-- 🎯 **Ana Odak:** Production AI & MLOps boru hatları, güvenilir dağıtık mimariler.
-- 🛠️ **Mühendislik Yaklaşımım:** AI ajanlarını ve LLM'leri körü körüne kod üreten araçlar olarak değil; teknik şartnameleri, veri modellerini ve mimari sınırları bizzat kurduğum bir **mühendislik çarpanı** olarak kullanırım.
-- 🎓 **Akademik & Araştırma:** Bilişim Sistemleri Mühendisliği & TÜBİTAK 2209-A Araştırma Projeleri.
+**How I work:**
+- **Production-first mindset:** Every system is designed with security boundaries, database indexing, edge-case failure modes, and deployment reality in mind.
+- **AI as an engineering multiplier:** I use AI agents to accelerate boilerplate, draft unit and integration test cases, and catch regressions — but architectural decisions, data contracts, security perimeters, and final code reviews are always my own.
+- **Hands-on across the stack:** Whether it involves inverse kinematics on a custom Raspberry Pi hexapod, hacking Moodle internals with least-privilege RBAC, or setting up multimodal RAG workflows, I take pride in understanding how things work under the hood.
 
 ---
 
-### 🚀 Öne Çıkan Gerçek Sistemler & Projeler
+### 🚀 Featured Production Systems & Projects
 
-| Proje | Rol & Kapsam | Teknoloji Yığını | Canlı / Kaynak Kod |
+| Project | Role & Scope | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **DersDevam** <br>*(Canlı Üniversite Yoklama Sistemi)* | **Lead & Solo Developer**<br>KVKK uyumlu, sahte imza ve WhatsApp ekran görüntüsü paylaşımını engelleyen **30 saniyelik dinamik QR token rotasyonu**, GPS sınıf menzili ve kampüs Wi-Fi/IP doğrulama katmanlı canlı yoklama platformu. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Auth.js` `Tailwind` `Docker` | [🌐 Canlı Sistem](https://dersdevam.com.tr) • [💻 Repo](https://github.com/pxrivizz/qr_yoklama) |
-| **Moodle Guest Registration** <br>*(Kurumsal LMS Eklentisi)* | **Backend / Plugin Developer**<br>Moodle çekirdek dosyalarına dokunmadan, süreli misafir hesaplarını Least-Privilege (en düşük yetki) prensibiyle oluşturan, otomatik askıya alma ve asenkron e-posta kuyruğuna sahip kurumsal eklenti. | `PHP` `Moodle APIs` `MySQL/PostgreSQL` `PHPUnit` `Mustache` | [💻 Repo](https://github.com/pxrivizz/guestregister) |
-| **TÜBİTAK 2209-A Akıllı Asistan & RAG** <br>*(Multimodal AI Sistemi)* | **AI & Araştırma**<br>Görsel tanıma (Vision) ve belge tabanlı hibrit RAG mimarisini birleştiren, kişiselleştirilmiş domain-spesifik akıllı asistan sistemi. | `Python` `FastAPI` `LangChain/LlamaIndex` `ChromaDB` `HuggingFace` | 🔒 *Ar-Ge / Akademik* |
-| **Hexapod Robot** <br>*(Gömülü & Etkileşimli Robotik)* | **Gömülü Sistemler & Donanım**<br>Raspberry Pi tabanlı, dinamik yürüyüş kinematiğine sahip, sesli komut ve yerel yapay zekâ entegrasyonlu 6 bacaklı robotik platform. | `Python` `Raspberry Pi` `Inverse Kinematics` `Speech API` `IoT` | 🛠️ *Donanım Laboratuvarı* |
+| **DersDevam** <br>*(Live University Attendance Platform)* | **Lead & Solo Developer**<br>Replaced fraud-prone paper signatures and static QR codes with a zero-leak check-in platform. Features **30-second rotating cryptographic tokens**, campus Wi-Fi/IP subnet verification, and strict GPS geofencing to prevent screenshot sharing or proxy attendance. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Auth.js` `Tailwind` `Docker` | [🌐 Live Platform](https://dersdevam.com.tr) • [💻 Source](https://github.com/pxrivizz/qr_yoklama) |
+| **Moodle Guest Registration** <br>*(Institutional LMS Plugin)* | **Backend / Plugin Developer**<br>A production Moodle 4.5+ plugin built for university operations. Enables non-admin staff to issue time-bound guest accounts with least-privilege RBAC, automated account suspension via cron, asynchronous email queuing, and CLI preflight verification without touching Moodle core files. | `PHP` `Moodle APIs` `MySQL/PostgreSQL` `PHPUnit` `Mustache` | [💻 Source](https://github.com/pxrivizz/guestregister) |
+| **Smart Food & Nutrition Assistant** <br>*(TÜBİTAK 2209-A Research Project)* | **AI & System Architecture**<br>Combines computer vision with a hybrid RAG architecture to provide domain-specific, personalized dietary insights and recipe intelligence. Merges dense vector retrieval with deterministic rule verification. | `Python` `FastAPI` `LangChain / LlamaIndex` `ChromaDB` `HuggingFace` | 🔒 *Academic R&D* |
+| **Interactive Hexapod Robot** <br>*(Embedded Systems & Robotics)* | **Embedded Systems & Hardware**<br>Custom 6-legged robot driven by inverse kinematics on a Raspberry Pi. Features real-time gait generation, voice interaction, and local telemetry. | `Python` `Raspberry Pi` `Inverse Kinematics` `Speech API` `IoT` | 🛠️ *Hardware Lab* |
 
 ---
 
-### 🛠️ Teknolojiler & Yetkinlikler
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Diller -->
-  <b>Programlama Dilleri:</b><br>
+  <b>Languages:</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -51,8 +51,7 @@ Oyuncak demolar veya yapay egzersizler yerine **üretimde (production) kararlı 
 </p>
 
 <p align="left">
-  <!-- AI & Data -->
-  <b>Yapay Zekâ, Veri & LLM:</b><br>
+  <b>AI, Data & Machine Learning:</b><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/RAG_Architecture-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
@@ -62,8 +61,7 @@ Oyuncak demolar veya yapay egzersizler yerine **üretimde (production) kararlı 
 </p>
 
 <p align="left">
-  <!-- Backend & Web -->
-  <b>Web, Veritabanı & Altyapı:</b><br>
+  <b>Web, Database & DevOps:</b><br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -75,11 +73,11 @@ Oyuncak demolar veya yapay egzersizler yerine **üretimde (production) kararlı 
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pxrivizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Halil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxrivizz&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-mu-ruby.vercel.app/api?username=pxrivizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Halil's GitHub Stats" />
+  <img src="https://github-readme-stats-mu-ruby.vercel.app/api/top-langs/?username=pxrivizz&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -89,5 +87,5 @@ Oyuncak demolar veya yapay egzersizler yerine **üretimde (production) kararlı 
 ---
 
 <div align="center">
-  <i>"Talk is cheap. Show me the code & the production metrics."</i>
+  <i>"Talk is cheap. Show me the code and the production metrics."</i>
 </div>
